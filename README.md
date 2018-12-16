@@ -62,6 +62,7 @@ $ npm run build
  - Application tests have not been coded.
  - Only tested on Chrome browser
  - Image cache
+ - Pagination or infinite scroll behaviour
  - ...
 
 License
